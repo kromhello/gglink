@@ -92,6 +92,13 @@ socials:
       title: "TikTok"
       alt: "Gamgrace TikTok"
       target: "_blank"
+
+  - social:
+      icon: "fa-brands fa-pinterest"
+      url: "https://www.pinterest.com/gamgraceofficial/"
+      title: "Pinterest"
+      alt: "Gamgrace Pinterest"
+      target: "_blank"
 # -----------------------------------------------------------------------------
 # Footer & Copyright
 # -----------------------------------------------------------------------------
