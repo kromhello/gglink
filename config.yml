@@ -44,18 +44,18 @@ links:
 
   - link:
       icon: "fa-solid fa-palette"
-      text: "Kaleidoscope Art Collection"
+      text: "Kaleidoscope Art"
       url: "https://gamgrace.com/collections/best?utm_source=linkyee&utm_medium=bio&utm_campaign=brand_hub&utm_content=kaleidoscope_art_btn"
-      alt: "Shop Kaleidoscope Art Collection"
-      title: "Shop Kaleidoscope Art Collection"
+      alt: "Shop Kaleidoscope Art"
+      title: "Shop Kaleidoscope Art"
       target: "_blank"
 
   - link:
       icon: "fa-solid fa-shirt"
-      text: "Handmade Knitwear Collection"
+      text: "Handmade Knitwear"
       url: "https://gamgrace.com/collections/best-knit?utm_source=linkyee&utm_medium=bio&utm_campaign=brand_hub&utm_content=handmade_knit_btn"
-      alt: "Shop Handmade Knitwear Collection"
-      title: "Shop Handmade Knitwear Collection"
+      alt: "Shop Handmade Knitwear"
+      title: "Shop Handmade Knitwear"
       target: "_blank"
 
   - link:
@@ -68,7 +68,7 @@ links:
 
   - link:
       icon: "fa-solid fa-envelope"
-      text: "Customer Support Email"
+      text: "Support Email"
       url: "mailto:support@gamgrace.com"
       alt: "Email Gamgrace Customer Support"
       title: "Email Gamgrace Customer Support"
