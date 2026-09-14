@@ -31,10 +31,9 @@ tagline: >-
   Discover Gamgrace seamless knitwear. Combining high-performance fabric with elegant, sculpting designs. Premium activewear crafted for ultimate comfort.
 
 # -----------------------------------------------------------------------------
-# Links (上半部分：官方商店与客户服务)
+# Links
 # -----------------------------------------------------------------------------
 links:
-  # 官方商城入口（带 UTM 参数便于 GA4 精准归因）
   - link:
       icon: "fa-solid fa-store"
       text: "Official Store"
@@ -43,7 +42,22 @@ links:
       title: "Visit Gamgrace Official Store"
       target: "_blank"
 
-  # 客服 Messenger 对话
+  - link:
+      icon: "fa-solid fa-palette"
+      text: "Kaleidoscope Art Collection"
+      url: "https://gamgrace.com/collections/best?utm_source=linkyee&utm_medium=bio&utm_campaign=brand_hub&utm_content=kaleidoscope_art_btn"
+      alt: "Shop Kaleidoscope Art Collection"
+      title: "Shop Kaleidoscope Art Collection"
+      target: "_blank"
+
+  - link:
+      icon: "fa-solid fa-shirt"
+      text: "Handmade Knitwear Collection"
+      url: "https://gamgrace.com/collections/best-knit?utm_source=linkyee&utm_medium=bio&utm_campaign=brand_hub&utm_content=handmade_knit_btn"
+      alt: "Shop Handmade Knitwear Collection"
+      title: "Shop Handmade Knitwear Collection"
+      target: "_blank"
+
   - link:
       icon: "fa-brands fa-facebook-messenger"
       text: "Chat on Messenger"
@@ -52,7 +66,6 @@ links:
       title: "Chat with Gamgrace on Messenger"
       target: "_blank"
 
-  # 客服邮箱
   - link:
       icon: "fa-solid fa-envelope"
       text: "Customer Support Email"
@@ -62,7 +75,7 @@ links:
       target: "_blank"
 
 # -----------------------------------------------------------------------------
-# Socials (下半部分：官方社媒矩阵)
+# Socials
 # -----------------------------------------------------------------------------
 socials:
   - social:
@@ -99,6 +112,7 @@ socials:
       title: "Pinterest"
       alt: "Gamgrace Pinterest"
       target: "_blank"
+
 # -----------------------------------------------------------------------------
 # Footer & Copyright
 # -----------------------------------------------------------------------------
